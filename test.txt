@@ -1,1 +1,2 @@
 Test de la sincronización entre Github y SourceTree.
+Segunda línea de texto añadida.
